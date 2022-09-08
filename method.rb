@@ -322,6 +322,3 @@ def final
     end
 end
 
-def ques
-my_questions = ["question1", "question2","question3","question4","question5","question6",]
-end
